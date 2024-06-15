@@ -1,0 +1,25 @@
+Funding Traders Auto Trading Bot
+Description
+
+The Funding Traders Auto Trading Bot is designed to automate your trading strategies. Simply download the bot, install Python, and run the script to start trading automatically.
+Installation
+Prerequisites
+
+    Download and install Python 3.8 or higher
+
+Steps
+
+    Download the latest version of the bot from this repository.
+
+    Ensure Python is installed on your computer. You can download it from the official Python website.
+
+    Double-click on the Funding_Traders_Auto_Trading_Bot.py file to run the bot.
+
+Usage
+
+To run the bot, simply double-click on the Funding_Traders_Auto_Trading_Bot.py file after installing Python.
+Contact
+
+If you have any questions or need further assistance, feel free to contact us at support@fundingtraders.com.
+
+This version keeps it simple and focuses on the key steps needed to download and run the bot.
